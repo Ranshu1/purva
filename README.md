@@ -1,16 +1,6 @@
 # purva
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# first screen is login screen and if your number is invalid then it show snackbar
+# second screen is otp screen and if you entered wrong otp then it will show snackbar
+# third is home screen and on profile secsion there is signout button
+# Default mobile number = "9898989898" and pin is "000000"
