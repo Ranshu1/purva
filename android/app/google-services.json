@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83752296800",
+    "project_id": "new-latest-purvan",
+    "storage_bucket": "new-latest-purvan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83752296800:android:975f27137b5a5e731bfe05",
+        "android_client_info": {
+          "package_name": "com.example.purva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjb2Dn9CnlGx77xsMZ-hWpIpNKG7KN2Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
